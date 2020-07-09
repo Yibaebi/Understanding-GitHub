@@ -1,4 +1,4 @@
-# Understanding GitHub
+# Understanding Git and GitHub
 So sooner or later we'll be working with GitHub. This repository was created so we can start working together on simple projects using GitHub. By simply project even a "Hello World" 
 addition to an existing code in the repository would mean something.
 
