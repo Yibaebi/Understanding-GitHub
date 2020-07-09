@@ -22,7 +22,7 @@ To just get familiar with GitHub before the need arises.
 - Once you have cloned this project you have a choice of doing any of the following to this project:
   - ***Add your fullname*** and ***track (frontend, backend, and project design)*** to the **name.txt** file already created in this repository.
   - ***Add a code block*** to the **code.js** file in this repository found on the frontend/backend folder. Look at item number five (5) please.
-  - If you are a product design intern, you could simply ***create a simple .jpg image that displays your fullname*** 
+  - If you are a ***product design intern***, you could simply ***create a simple .jpg image that displays your fullname*** 
   and add it to the product design folder created in this repository.
   
 - Once any of the above actions have been done, **push your changes to this repository**.
