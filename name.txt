@@ -1,3 +1,4 @@
 LEARNABLE 2020
 
 1. Elliot Yibaebi (Frontend Developer).
+2. Ajaezo Kingsley (Front End Developer).
